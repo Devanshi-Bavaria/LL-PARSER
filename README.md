@@ -44,4 +44,4 @@ Follow these steps to set up the project for local development:
 
 ## Deployment
 
-The application is deployed using Streamlit Community Cloud and can be accessed [here](https://ll-parsing.streamlit.app/).
+The application is deployed using Streamlit Community Cloud and can be accessed [here](https://xceamdtytreumrswgkhp9u.streamlit.app/).
