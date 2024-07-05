@@ -134,7 +134,7 @@ An LL (Left-to-Right, Leftmost derivation) parser is a type of top-down parsing 
 developer_details = """
 <hr>
 <h3 style="text-align: center; text-decoration: underline"> Developed By </h3>
-<h4 style="text-align: center"> Arunima Barik (20BCE016) <br> Gaurav Golchha (20BCE079) </h4>
+<h4 style="text-align: center"> Devanshi Bavaria </h4>
 
 """
 
